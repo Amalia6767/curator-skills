@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# 本地语音模型（体积大，按 SETUP 说明自行下载）
+**/models/
+
+# 编辑器
+.vscode/
+.idea/
